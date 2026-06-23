@@ -1,16 +1,14 @@
-## Hi there 👋
+# Olá, eu sou jessica caroline bruck dos santos
 
-<!--
-**jessicabrucksantos-sys/jessicabrucksantos-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
+Sou estudante e estou aprendendo programação.
 
-Here are some ideas to get you started:
+## Tecnologias que estou estudando
+- HTML
+- CSS
+- JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##Objetivos
+	## a persistencia leva ao sucesso
+## Contato
+- E-mail: jessica.bruck.santos@escola.pr.gov.br
